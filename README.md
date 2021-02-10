@@ -1,4 +1,5 @@
-**Status:** Maintenance (expect bug fixes and minor updates)
+**Status:** ongoing work on deep RL algorithm
+a fork from open AI deep RL algorithms
 
 <img src="data/logo.jpg" width=25% align="right" /> [![Build status](https://travis-ci.org/openai/baselines.svg?branch=master)](https://travis-ci.org/openai/baselines)
 
